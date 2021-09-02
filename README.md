@@ -1,5 +1,5 @@
 # OFig
-Petit projet front; galerie de figurines sur le thème Final Fantasy VII
+(S4) Galerie de figurines sur le thème Final Fantasy VII
 
 - dataMapper
 - router
